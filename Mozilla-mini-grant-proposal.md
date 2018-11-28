@@ -1,7 +1,6 @@
-<p align="center">
+<div style="text-align:center>
 <H2>Proposal for “A Formal Approach to Data Recycling”</H2>
-</p>
-
+</div>
 ### Issue Statement:  
 Data has become ubiquitous in the modern world, and specialized field such as Data Science and Informatics have emerged to extract insights from this deluge. For the area of Biological Science in particular, high-throughput and automated tracking technologies produce much more data than can be analyzed by groups that specialize in investigating biological mechanisms. One short-term solution to this proliferation has been to store data in repositories for public consumption. While this follows from the principles of a library, it has also lead to an ad-hoc group of data recyclers. This includes the analysis and annotation of primary datasets, the assembly of secondary datasets used for purposes such as novel comparative studies, and the production of tertiary datasets such as visualizations or a set of mathematical abstractions. While the more traditional library model has been excellent for accessibility, a formal model of utility and a lack of explicitly-stated standards have limited the potential of reusing data. Given this complexity, it has become clear that more formal methods for transforming these public data is required to sustain practice and even help to establish a new discipline of data science biology. Our project will proceed by promoting an educational curriculum, developing a data reuse infrastructure, and engaging in community-building efforts. This will provide a strong foundation for a number of new initiatives, bolster the practice of open science, and promote positive attitudes with respect to data sharing and alternative uses and transformation of primary data.  
 
