@@ -4,8 +4,10 @@ This repository contains a copy of a mini-grant (Mozilla-mini-grant-proposal.md)
 
 ThinkSpace for Reproducibility Pipeline:  
 
-* merge with reproducibility factors.  
+* merge with reproducibility factors (primary, secondary, and tertiary dataset creation).  
 
-* how do we encourage reproducibility in data reuse (consistent outcomes/results, not just procedures).  
+* how do we encourage reproducibility in data reuse (consistent outcomes/results, not just procedures)?  
+
+* can we prepaare a preprint on this?  
 
 
