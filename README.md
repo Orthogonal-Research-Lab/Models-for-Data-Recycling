@@ -6,10 +6,10 @@ ThinkSpace for Reproducibility Pipeline:
 
 * merge with reproducibility factors (primary, secondary, and tertiary dataset creation).  
 
-* how do we encourage reproducibility in data reuse (consistent outcomes/results, not just procedures)?  
-
-* can we prepare a preprint on this?  
+* add a visualization component (VR, interactive graphics).  
 
 * incorporate into OpenWorm Foundation and Orthogonal Research and Education Lab initiatives.  
 
+* how do we encourage reproducibility in data reuse (consistent outcomes/results, not just procedures)?  
 
+* can we prepare a preprint on this?  
