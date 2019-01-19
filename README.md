@@ -8,6 +8,8 @@ ThinkSpace for Reproducibility Pipeline:
 
 * how do we encourage reproducibility in data reuse (consistent outcomes/results, not just procedures)?  
 
-* can we prepaare a preprint on this?  
+* can we prepare a preprint on this?  
+
+* incorporate into OpenWorm Foundation and Orthogonal Research and Education Lab initiatives.  
 
 
