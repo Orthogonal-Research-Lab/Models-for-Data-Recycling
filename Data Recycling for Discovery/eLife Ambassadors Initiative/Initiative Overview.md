@@ -2,7 +2,7 @@
 This initiative addresses the need for a set of community standards and a set of formal practices for data reuse. Data reuse has two components: the creation of secondary and/or teritiary datasets, or the creation of new insights that can only be made with non-primary data collection.
 
 ## How will your initiative function?
-Newcomers to this initiative will 1) gain exposure to the practice of data recycling, and/or 2) work towards building a reproducible infrastructure for data recycling. We will work as a distributed group, and focus our efforts on a data reuse architecture [1] and course materials.
+Newcomers to this initiative will 1) gain exposure to the practice of data recycling, and/or 2) work towards building a reproducible infrastructure for data recycling. We will work as a distributed group, and focus our efforts on a data reuse architecture [1], course materials, and a set of data structures/best practices that can ease the implementation of data sharing and reuse. 
 
 ## What are the expected outcomes of your initiative?
 Our goals are as follows:
