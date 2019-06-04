@@ -2,16 +2,20 @@
 This initiative addresses the need for a set of community standards and a set of formal practices for data reuse. Data reuse has two components: the creation of secondary and/or teritiary datasets, or the creation of new insights that can only be made with non-primary data collection.
 
 ## How will your initiative function?
-Newcomers to this initiative will 1) gain exposure to the practice of data recycling, and/or 2) work towards building a reproducible infrastructure for data recycling. We will work as a distributed collaborative group, and focus our efforts on a data reuse architecture [1] and course materials.
+Newcomers to this initiative will 1) gain exposure to the practice of data recycling, and/or 2) work towards building a reproducible infrastructure for data recycling. We will work as a distributed group, and focus our efforts on a data reuse architecture [1] and course materials.
 
 ## What are the expected outcomes of your initiative?
 Our goals are as follows:
 
-Refactor the existing course module [2] by introducing a greater degree of content and interactivity. We also need people to work through the existing and proposed assignments to gauge their plausibility.
+* edit and update the existing course module [2] by introducing a greater degree of content and interactivity. We also need people to work through the existing and proposed assignments to gauge their plausibility.
 
-Create new educational assets such as digital badges or working prototypes of the data reuse architecture.
+* develop a data structure for data sharing and recycling within and between disciplines.
 
-Create a “field-finding” review [3] and curated reference list (annotated bibliography) [4] for the topical areas of open data, data recycling, and reproducibility.
+* develop a set of best practices for data sharing and recycling within and between disciplines.
+
+* create new educational assets such as [digital badges (microcredentials)](https://en.wikipedia.org/wiki/Digital_badge) to foster educational opportunities on the topic.
+
+* create a topical review [3] and curated reference list (annotated bibliography) [4] for existing research in the areas of open data, data recycling, and reproducibility. 
 
 <p align="center">
   <img width="566" height="147" src="https://user-images.githubusercontent.com/38323286/58852056-923a8c80-865a-11e9-8b06-0a923589fdc7.png"><BR>
