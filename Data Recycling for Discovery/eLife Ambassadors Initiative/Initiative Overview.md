@@ -13,6 +13,11 @@ Create new educational assets such as digital badges or working prototypes of th
 
 Create a “field-finding” review [3] and curated reference list (annotated bibliography) [4] for the topical areas of open data, data recycling, and reproducibility.
 
+<p align="center">
+  <img width="566" height="147" src="https://user-images.githubusercontent.com/38323286/58852056-923a8c80-865a-11e9-8b06-0a923589fdc7.png"><BR>
+An example of digital badges (or microcredentials), hosted at [Badgelist](https://www.badgelist.com/)
+</p>
+
 ## Who will be involved?
 The following Ambassadors have expressed interest in the initiative: [Bradly Alicea](https://www.researchgate.net/profile/Bradly_Alicea2), [Marije Verhage](https://www.researchgate.net/profile/Marije_Verhage), [Huajin Wang](https://www.library.cmu.edu/about/people/huajin-wang), and [Bhavik Nathwani](https://wyss.harvard.edu/team/postdoctoral-fellow/bhavik-nathwani/). Specifically, there has been interest in creating a set of data reuse standards in the form of data structures and other techniques for use within and across academic fields.
 
