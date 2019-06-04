@@ -15,7 +15,7 @@ Create a “field-finding” review [3] and curated reference list (annotated bi
 
 <p align="center">
   <img width="566" height="147" src="https://user-images.githubusercontent.com/38323286/58852056-923a8c80-865a-11e9-8b06-0a923589fdc7.png"><BR>
-An example of digital badges (or microcredentials), hosted at [Badgelist](https://www.badgelist.com/)
+An example of digital badges (or microcredentials), hosted at [Badgelist](https://www.badgelist.com/). Click to enlarge.
 </p>
 
 ## Who will be involved?
