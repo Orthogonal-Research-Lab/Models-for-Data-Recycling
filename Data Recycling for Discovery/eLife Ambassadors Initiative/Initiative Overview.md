@@ -23,6 +23,8 @@ An example of digital badges (or microcredentials), hosted at [Badgelist](https:
 </p>
 
 ## Who will be involved?
+[Bradly Alicea](https://www.researchgate.net/profile/Bradly_Alicea2) and [Marije Verhage](https://www.researchgate.net/profile/Marije_Verhage) have agreed to be the co-leads.  
+
 The following Ambassadors have expressed interest in the initiative: [Bradly Alicea](https://www.researchgate.net/profile/Bradly_Alicea2), [Marije Verhage](https://www.researchgate.net/profile/Marije_Verhage), [Huajin Wang](https://www.library.cmu.edu/about/people/huajin-wang), and [Bhavik Nathwani](https://wyss.harvard.edu/team/postdoctoral-fellow/bhavik-nathwani/). Specifically, there has been interest in creating a set of data reuse standards in the form of data structures and other techniques for use within and across academic fields.
 
 Part of the existing data reuse course module is part of the “Reproducibility for Everybody” initiative. Ambassadors need no previous experience in the topic, and all are welcome. A short onboarding session will be held for potential collaborators.
