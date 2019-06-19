@@ -27,7 +27,7 @@ An example of digital badges (or microcredentials), hosted at [Badgelist](https:
 
 The following Ambassadors have expressed interest in the initiative: [Bradly Alicea](https://www.researchgate.net/profile/Bradly_Alicea2), [Marije Verhage](https://www.researchgate.net/profile/Marije_Verhage), [Huajin Wang](https://www.library.cmu.edu/about/people/huajin-wang), and [Bhavik Nathwani](https://wyss.harvard.edu/team/postdoctoral-fellow/bhavik-nathwani/). Specifically, there has been interest in creating a set of data reuse standards in the form of data structures and other techniques for use within and across academic fields.
 
-Part of the existing data reuse course module is part of the “Reproducibility for Everybody” initiative. Ambassadors need no previous experience in the topic, and all are welcome. A short onboarding session will be held for potential collaborators.
+Part of the existing data reuse course module is part of the [Reproducibility for Everybody](https://www.repro4everyone.org/) initiative. Ambassadors need no previous experience in the topic, and all are welcome. A short onboarding session was held on June 7, 2019 [video](https://www.youtube.com/watch?v=UQ_DtaeyBTM&feature=youtu.be) [session notes](https://drive.google.com/drive/u/1/folders/1yHUcHBlxWkk1QKkLRIwbeULo7oYbTJN1).
 
 We are currently on an open timeline, although this may change as we approach Fall 2019. Collaborators can suggest contributions through a Github pull request, or submit their contributions to an initiative leader.
 
