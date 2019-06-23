@@ -41,7 +41,7 @@ We also have a number of existing tutorials on How to Create Microcredentials an
 ## What is the timeline?
 We are currently on an open timeline, although we do have several target dates for specific outcomes. Collaborators can suggest contributions through a Github pull request in this repository, or submit their contributions to project lead Alicea.
  
-Current Milestones:
+Current Milestones:  
 Blogpost draft will be submitted by August 2019 to be edited and finalized by September 2019. 
 
 Information for course module update will be collected through September 2019. New sources will be discussed internally amongst the members of the initiatives through Dec 2019. Course module presentation will be updated through March 2019. Webinar will be scheduled for soon-after. 
