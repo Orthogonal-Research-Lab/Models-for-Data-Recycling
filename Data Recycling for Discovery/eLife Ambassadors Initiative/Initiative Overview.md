@@ -3,7 +3,7 @@ Combining existing datasets from different authors is currently a challenging en
 We also want to serve as a community resource for newcomers and current practitioners of open data recycling. Therefore, we view data recycling as enabling both derivative data analysis  and meta research, as well as providing a mechanism for research reproducibility. 
 
 ## How will your initiative function?
-This initiative will work towards building a reproducible infrastructure for data recycling. We will work as a distributed group, and focus our efforts on two goals: one involving the creation of the common data templates and one involving the creation of a knowledge base with information on data reuse. 
+This initiative will work towards building a reproducible infrastructure for data recycling. We will work as a distributed group, and focus our efforts on the two components: education and knowledge advancement and data management. Any group member can work on any part of the initiative they choose, and we expect different subgroups to emerge working on various issues in the initiative. We will have regular group meetings via teleconference, which will be supplemented by discussions on the eLife Discourse. We encourage contributors to use [Trello](https://trello.com/) for managing issues and workflow, [Google Docs](https://drive.google.com/drive/u/1/folders/1yHUcHBlxWkk1QKkLRIwbeULo7oYbTJN1) for access to collaborative materials, and [Github](https://github.com/) for version control. Eventually, we will create an initiative website to centralize all of our resources.
  
 ## What are the expected outcomes of your initiative?
 
