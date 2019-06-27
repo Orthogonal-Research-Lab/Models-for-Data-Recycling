@@ -1,4 +1,4 @@
-Please explore the rest of the [Models for Data Reuse](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Recycling/) repository to learn, engage, and contribute.
+Please explore the rest of the [Models for Data Reuse](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse) repository to learn, engage, and contribute.
 
 New to Github? Check out our primer on [Github and version control](--) for more information.
 
