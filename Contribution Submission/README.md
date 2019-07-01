@@ -1,1 +1,1 @@
-
+This repository is for submitting files only. To make a submission, [create a pull request](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request) and then push them to this repository. If you would describe your upload to this repository in more detail, or make a general comment/textual contribution, please do so through our [content submission form](https://docs.google.com/forms/d/e/1FAIpQLSdwOdDA4if27ZD_n1w66kc4vfnRvg7cs8T-LoW1FirclKugyQ/viewform?usp=sf_link).
