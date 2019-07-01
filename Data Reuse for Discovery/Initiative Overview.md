@@ -10,11 +10,11 @@ This initiative will work towards building a reproducible infrastructure for dat
 
 For the knowledge base with information on data reuse, our goals are three-fold:
  
-* edit and update the existing course module on data reuse that is part of Reproducibility for Everybody [2] by introducing a greater degree of content and interactivity, and suitability for multiple audiences. Eventually, we would like to host a series of webinars on topics in data reuse. 
+* edit and update the existing course module on data reuse that is part of Reproducibility for Everybody [1] by introducing a greater degree of content and interactivity, and suitability for multiple audiences. Eventually, we would like to host a series of webinars on topics in data reuse. 
  
 * create new educational assets such as digital badges (microcredentials) and blogposts to foster educational opportunities on the topic.
 
-* create a topical review [3] and curated reference list (annotated bibliography) [4] for existing research in the areas of open data, data reuse, and reproducibility.
+* create a topical review [2] and curated reference list (annotated bibliography) [3] for existing research in the areas of open data, data reuse, and reproducibility.
 
 <p align="center">
   <img width="566" height="147" src="https://user-images.githubusercontent.com/38323286/58852056-923a8c80-865a-11e9-8b06-0a923589fdc7.png"><BR>
