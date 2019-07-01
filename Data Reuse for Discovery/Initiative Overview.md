@@ -30,7 +30,7 @@ Drs. Bradly Alicea (@bradly.alicea) and Marije Verhage (@m.l.verhage) have agree
 We also have a number of existing tutorials on How to Create Microcredentials and Version Control for Distributed Science to help people contribute to the project. The [initiative website](https://data-reuse.weebly.com/) has more details.
  
 ## What is the timeline?
-We are currently on an open timeline, although we do have several target dates for specific outcomes. Collaborators can suggest contributions using one of three methods: leave a comment for either project lead in Discourse, submit to the Google Drive by form or by upload, or make a Github pull request [in this repository](https://github.com/Orthogonal-Research-Lab/Module-II-reusefulness-of-data).
+We are currently on an open timeline, although we do have several target dates for specific outcomes. Collaborators can suggest contributions using one of three methods: leave a comment for either project lead in Discourse, submit to the Google Drive by [form](https://docs.google.com/forms/d/e/1FAIpQLSdwOdDA4if27ZD_n1w66kc4vfnRvg7cs8T-LoW1FirclKugyQ/viewform?usp=sf_link) or by [upload](https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/tree/master/Contribution%20Submission), or make a Github pull request [in this repository](https://github.com/Orthogonal-Research-Lab/Module-II-reusefulness-of-data).
  
 ## Current Milestones:
 Blogpost draft will be submitted by November 2019 to be edited and finalized by December 2019. 
