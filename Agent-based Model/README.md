@@ -4,3 +4,4 @@ This repo contains code for the Prisoner's Dilemma _N_-person iterated agent-bas
 
 [2] Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
 
+Data files (.csv files) for each Scenario include the two strategies used for each run (nubered 1 through 5).
