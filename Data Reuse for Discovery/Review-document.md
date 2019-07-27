@@ -1,5 +1,7 @@
 # Data Reuse Initiative Bibliography
 
+Zotero collection   [link](https://www.zotero.org/groups/2352845/datareusability)
+
 ## References
 Hardwicke, T. (2018). [Are open data actually reusable](https://tomhardwicke.netlify.com/blog/open-data-reusability/)? _Tom Hardwicke blog_, August 15.
 
