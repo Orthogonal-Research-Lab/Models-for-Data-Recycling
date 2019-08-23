@@ -17,7 +17,7 @@
 * provide a screenshot for this dataset (include the accession number and characteristics).
 
 
-4. post a dataset to Figshare. Publish and submit the doi generated for this submission.
+4. post a sample dataset to Figshare. Publish and submit the doi generated for this submission.
 
 
 5. discuss how you might go about reviewing a dataset. Focus on the following aspects: 1) quality control (check for errors, potential forgery), 2) consistency, 3) sufficient annotation.
