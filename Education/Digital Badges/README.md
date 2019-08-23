@@ -10,11 +10,11 @@
 
 3. Using ((assigned genomic paper)), please find/identify the following: 
 
-a) genomic data that are publically-available.
+* genomic data that are publically-available.
 
-b) an exemplar dataset using the Gene Expression Omnibus accession number.
+* an exemplar dataset using the Gene Expression Omnibus accession number.
 
-c) provide a screenshot for this dataset (include the accession number and characteristics).
+* provide a screenshot for this dataset (include the accession number and characteristics).
 
 
 4. post a dataset to Figshare. Publish and submit the doi generated for this submission.
