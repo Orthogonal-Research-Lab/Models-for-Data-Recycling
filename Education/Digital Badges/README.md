@@ -10,7 +10,7 @@
 
 3. Using ((assigned genomic paper)), please find/identify the following: 
 
-* genomic data that are publically-available.
+* genomic data that are publicly-available.
 
 * an exemplar dataset using the Gene Expression Omnibus accession number.
 
@@ -20,7 +20,10 @@
 4. post a sample dataset to Figshare. Publish and submit the doi generated for this submission.
 
 
-5. discuss how you might go about reviewing a dataset. Focus on the following aspects: 1) quality control (check for errors, potential forgery), 2) consistency, 3) sufficient annotation.
+5. Find a dataset on [Dryad](https://datadryad.org/) and provide the following information: 1) digital identifier (doi), 2) title of the associated paper, 3) the creative commons license type, 4) a list of the different files in the package and their size.
+
+
+6. discuss how you might go about reviewing a dataset. Focus on the following aspects: 1) quality control (check for errors, potential forgery), 2) consistency, 3) sufficient annotation.
 
 
 ### Integration of Mozilla data reuse template and badge lessons
