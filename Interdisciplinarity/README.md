@@ -1,1 +1,1 @@
-This directory is meant to discuss and examine the role of data reuse in answering interdisciplinary questions.
+This directory is meant to discuss and examine the role of data reuse in answering interdisciplinary questions. Of particular interest is the use of data in one field (e.g. neuroimaging) to facilitate advances in another field (e.g. cognitive modeling).
