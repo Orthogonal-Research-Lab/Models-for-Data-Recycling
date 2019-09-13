@@ -6,7 +6,7 @@
 
 2. For your chosen paper, please give a directory contents list for the data files (images and tables) that constitute the Supplemental Files.
 
-3. Using ((assigned genomic paper)), please find/identify the following: 
+3. Using your chosen paper, please find/identify the following: 
 
 * genomic data that are publicly-available.
 
