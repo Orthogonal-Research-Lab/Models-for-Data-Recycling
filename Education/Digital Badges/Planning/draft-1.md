@@ -26,6 +26,8 @@
 
 ### Integration of Mozilla data reuse template and badge lessons
 
+Taken from the publicly-available [Mozilla Data Reuse Plan Template](https://github.com/mozillascience/working-open-workshop/blob/gh-pages/handouts/data_reuse_plan_template.md)
+
 1) Header information: Title of Dataset (describe), assign permenant ID (doi), classify according to a subject index.
 
 2) Credits: Authors ([authorship tree](https://figshare.com/articles/The_Authorship_Tree/4731913)), corresponding author. 
