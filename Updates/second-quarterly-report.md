@@ -1,0 +1,9 @@
+Motivation for the Data Reuse Initiative is to make open data sharing interesting, accessible, and educational. Our target audience ranges from the eLife Ambassadors initiative to interested open data creators and sharers worldwide. Currently, our initiative has three tracks: empirical inquiry, promotion of community standards, and education. By the end of the current program, we aim to implement the following:
+
+* educational products such as microcredentials, short course materials, tutorials, infographics, and blog posts.
+
+* survey design to determine current and best practices.
+
+* bibliographic resources and community infrastructure ([website](https://data-reuse.weebly.com/), public lectures).
+
+We have made progress on all three of these fronts. In terms of educational products, we celebrated OAWeek with [an infographic](http://syntheticdaisies.blogspot.com/2019/10/oa-week-history-of-open-science.html) and the debut of our [two badge microcredential](https://www.youtube.com/watch?time_continue=752&v=fKnef69wT3g) series. These events were [publicized on _Synthetic Daisies_ blog](http://syntheticdaisies.blogspot.com/2019/10/open-access-week-2019-introduction.html). We are also [looking for community testimonials](http://syntheticdaisies.blogspot.com/2019/10/oaweek-share-your-own-case-study.html) of how individuals and research groups reuse data. We have also made progress on survey design, and plan to alpha test of our survey by the end of 2019. We have also had a public lecture given at the [_SciLife Lab: Reproducibility and Data Reuse in Life Science_](https://www.youtube.com/watch?time_continue=752&v=fKnef69wT3g) symposium by initiative participant Huajin Wang ([_Novel and upcoming approaches for data reuse_](https://www.scilifelab.se/events/reproducibility)). We would also like to develop some topical tutorials by the end of the calendar year.
