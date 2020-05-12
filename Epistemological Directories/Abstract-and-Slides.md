@@ -31,4 +31,52 @@ Learning and research involves more than simply looking things up on Wikipedia. 
 </p>  
 <p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide10.png"><BR> 
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide11.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide12.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide13.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide14.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide15.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide16.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide17.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide18.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide19.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide20.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide21.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide22.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide23.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide24.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide25.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide26.png"><BR> 
 </p>  
