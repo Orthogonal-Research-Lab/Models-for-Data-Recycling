@@ -17,3 +17,18 @@ Learning and research involves more than simply looking things up on Wikipedia. 
 <p align="center">
   <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide5.png"><BR> 
 </p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide6.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide7.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide8.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide9.png"><BR> 
+</p>  
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Models-for-Data-Reuse/blob/master/Epistemological%20Directories/Slides/Slide10.png"><BR> 
+</p>  
